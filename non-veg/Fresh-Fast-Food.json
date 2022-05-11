@@ -1,0 +1,52 @@
+{
+    "Food": [
+      {
+        "FoodId": "19",
+        "FoodName": "Bun cha Hanoi",
+        "FoodRecepiee": "Rice noodle, barbecue,spring rolls",
+        "FoodPrice": "17",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://www.thatlangon.com/wp-content/uploads/2020/09/bun-cha6.jpg"
+      },
+      {
+        "FoodId": "20",
+        "FoodName": "Hanoi bread",
+        "FoodRecepiee": "bread, barbecue, vegetable",
+        "FoodPrice": "21",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://images.foody.vn/res/g105/1046968/prof/s640x400/foody-upload-api-foody-mobile-20-200916132829.jpg"
+      },
+      {
+        "FoodId": "21",
+        "FoodName": "Grilled chopped fish",
+        "FoodRecepiee": "fish,spices",
+        "FoodPrice": "15",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://tourism.hanoi.gov.vn/storage/cha-ca-la-vong-1.jpg"
+      },
+      {
+        "FoodId": "22",
+        "FoodName": "vermicelli with shrimp paste",
+        "FoodRecepiee": "shrimp paste,vermicelli",
+        "FoodPrice": "18",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://dulich9.com/wp-content/uploads/2019/05/Mon-an-ngon-Ha-Noi-bun-dau-Mam-Tom.jpg"
+      },
+      {
+        "FoodId": "23",
+        "FoodName": "BBQ Chicken",
+        "FoodRecepiee": "chicken, lemon",
+        "FoodPrice": "26",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://truyenhinhvov.qltns.mediacdn.vn/239964650902032384/2021/5/18/5601mondaklak5-1621309467477-16213094679061957399746.jpg"
+      },
+      {
+        "FoodId": "24",
+        "FoodName": "Steamed Broken Rice",
+        "FoodRecepiee": "rice, rib, cha",
+        "FoodPrice": "24",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://storage.ctu.edu.vn/aunilo2018/images/Images/AUNILO2018/Food/cach-lam-nuoc-mam-an-com-tam.jpg"
+      }
+    ]
+  }

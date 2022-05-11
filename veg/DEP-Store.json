@@ -1,0 +1,52 @@
+{
+    "Food": [
+      {
+        "FoodId": "24",
+        "FoodName": "Buffalo Wild Wings",
+        "FoodRecepiee": "450 calories, 30 grams of protein, 10 grams of fat, 1100 mg of sodium and 3 grams of fiber",
+        "FoodPrice": "18",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/11/14/0/FN_healthy-fast-food-buffalo-chicken-wings-istock_s4x3.jpg.rend.hgtvcom.966.725.suffix/1510694300391.jpeg"
+      },
+      {
+        "FoodId": "25",
+        "FoodName": "California Pizza Kitchen",
+        "FoodRecepiee": "grilled chicken, watermelon radishes, avocado, cucumbers, carrots, bean sprouts, scallions, cilantro, mint and sesame seeds.",
+        "FoodPrice": "27",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/19/0/FN_healthy-fast-food-cpk_s4x3.jpg.rend.hgtvcom.966.725.suffix/1513705400652.jpeg"
+      },
+      {
+        "FoodId": "26",
+        "FoodName": "Carraba’s Italian Grill",
+        "FoodRecepiee": "balsamic-drizzled grilled chicken, veggies and ricotta salata",
+        "FoodPrice": "35",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/11/14/0/FN_healthy-fast-food-carrabas-salad_s4x3.jpg.rend.hgtvcom.966.725.suffix/1510694230865.jpeg"
+      },
+      {
+        "FoodId": "27",
+        "FoodName": "Chick-Fil-A",
+        "FoodRecepiee": "The chicken is layered with cheese, lettuce, red cabbage and carrots, and the wrap is a super-high fiber flatbread",
+        "FoodPrice": "18",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/11/14/0/FN_healthy-fast-food-chik-fil-a_s4x3.jpg.rend.hgtvcom.966.725.suffix/1510694225695.jpeg"
+      },
+      {
+        "FoodId": "28",
+        "FoodName": "Cracker Barrel",
+        "FoodRecepiee": "Buttermilk Oven-Fried Chicken or Pecan-Crusted Catfish with lower-sodium, veggie-focused sides, such as mashed potatoes and steamed broccoli, or Brussels sprouts and kale salad with apple slices",
+        "FoodPrice": "26",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://truyenhinhvov.qltns.mediacdn.vn/239964650902032384/2021/5/18/5601mondaklak5-1621309467477-16213094679061957399746.jpg"
+      },
+      {
+        "FoodId": "29",
+        "FoodName": "Chili’s",
+        "FoodRecepiee": "Mango Chili Chicken, served with Mexican rice and steamed broccoli, and the Margarita Chicken, which is like a burrito bowl.",
+        "FoodPrice": "21",
+        "FoodCategory": "non-veg",
+        "FoodThumb": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/11/14/0/FN_healthy-fast-food-chilis-grilled-chicken-salad_s4x3.jpg.rend.hgtvcom.966.725.suffix/1510694258774.jpeg"
+      }
+    ]
+  }
