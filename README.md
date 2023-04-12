@@ -4,13 +4,13 @@ Welcome to the **Emo-Sarco Detect**, an advanced natural language processing API
 
 ## 📚 Table of Contents
 
-1. [Authentication](#🔑-authentication)
-2. [Endpoints](#🌐-endpoints)
-   - [Emotion Analysis](#😃-emotion-analysis)
-   - [Sarcasm Detection](#🧐-sarcasm-detection)
-3. [Rate Limits](#🚦-rate-limits)
-4. [Error Codes](#⚠️-error-codes)
-5. [Support](#📞-support)
+1. [Authentication](#authentication)
+2. [Endpoints](#endpoints)
+    - [Emotion Analysis](#emotion-analysis)
+    - [Sarcasm Detection](#sarcasm-detection)
+3. [Rate Limits](#rate-limits)
+4. [Error Codes](#error-codes)
+5. [Support](#support)
 
 ## 🔑 Authentication
 
